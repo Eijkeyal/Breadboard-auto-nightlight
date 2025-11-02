@@ -15,6 +15,12 @@ This is a hands-on breadboard implementation of an automatic light sensor circui
 ## 🔌 Breadboard Implementation
 Since this is a practical breadboard project without a formal schematic, here's the connection guide:
 
+### Connection Layout:
+1. **LDR Circuit**: Connect LDR in series with 10kΩ resistor across 9V
+2. **Transistor Base**: Connect between LDR and 10kΩ resistor
+3. **LED Circuit**: Connect LED with 330Ω resistor to transistor collector
+4. **Power**: 9V battery connected to breadboard power rails
+
 
 ## Applications
 - Automatic street lights
