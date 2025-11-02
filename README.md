@@ -36,3 +36,8 @@ Since this is a practical breadboard project without a formal schematic, here's 
 - **Bright Light**: LDR resistance low → transistor stays OFF → LED OFF
 - **Darkness**: LDR resistance high → transistor turns ON → LED lights up
 
+## 💡 Learning Outcomes
+- Practical breadboard prototyping
+- Understanding sensor-based automation
+- Transistor switching applications
+- Circuit debugging and testing
