@@ -21,10 +21,10 @@ Since this is a practical breadboard project without a formal schematic, here's 
 3. **LED Circuit**: Connect LED with 330Ω resistor to transistor collector
 4. **Power**: 9V battery connected to breadboard power rails
 
-
-## 📸 Visual Documentation
-*(Include your video and photos here)*
-
+### Video Demonstration
+Watch the project in action on LinkedIn:
+[**🎥 LinkedIn Demo Video Post**](https://www.linkedin.com/posts/your-actual-post-url-here)
+*Click above to see the circuit demonstration and explanation*
 
 ## Applications
 - Automatic street lights
