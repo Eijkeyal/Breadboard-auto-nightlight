@@ -24,6 +24,7 @@ Since this is a practical breadboard project without a formal schematic, here's 
 ### Video Demonstration
 Watch the project in action on LinkedIn:
 [**🎥 LinkedIn Demo Video Post**](https://www.linkedin.com/posts/your-actual-post-url-here)
+
 *Click above to see the circuit demonstration and explanation*
 
 ## Applications
