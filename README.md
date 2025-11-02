@@ -31,3 +31,8 @@ Since this is a practical breadboard project without a formal schematic, here's 
 - Night lamps
 - Security systems
 - Energy-saving systems
+
+## 🎯 How It Works
+- **Bright Light**: LDR resistance low → transistor stays OFF → LED OFF
+- **Darkness**: LDR resistance high → transistor turns ON → LED lights up
+
