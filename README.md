@@ -12,6 +12,10 @@ This is a hands-on breadboard implementation of an automatic light sensor circui
 - **Breadboard** - Prototyping platform
 - **Jumper Wires** - Connections
 
+## 🔌 Breadboard Implementation
+Since this is a practical breadboard project without a formal schematic, here's the connection guide:
+
+
 ## Applications
 - Automatic street lights
 - Night lamps
