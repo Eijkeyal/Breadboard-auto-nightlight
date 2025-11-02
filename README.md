@@ -22,6 +22,10 @@ Since this is a practical breadboard project without a formal schematic, here's 
 4. **Power**: 9V battery connected to breadboard power rails
 
 
+## 📸 Visual Documentation
+*(Include your video and photos here)*
+
+
 ## Applications
 - Automatic street lights
 - Night lamps
