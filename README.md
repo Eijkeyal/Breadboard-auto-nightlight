@@ -49,3 +49,10 @@ Through this hands-on project, we've validated core electronics principles in pr
 
 *Key Learnings: Sensor integration, analog circuit design, transistor applications, and practical prototyping.*
 
+ 
+## 👤 Author  
+**Eijkeyal Pakhrin**  
+- GitHub: [Eijkeyal](https://github.com/Eijkeyal)  
+- LinkedIn: [Eijkeyal Pakhrin](https://www.linkedin.com/in/eijkeyalpakhrin)
+- Credly: [Eijkeyal Pakhrin](https://credly.com/users/eijkeyal-pakhrin)
+
