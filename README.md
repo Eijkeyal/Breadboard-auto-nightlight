@@ -47,5 +47,5 @@ Watch the project in action on LinkedIn:
 
 Through this hands-on project, we've validated core electronics principles in practice. The circuit effectively demonstrates sensor input processing, transistor switching, and automated output control - essential concepts that scale to complex industrial and IoT systems. This implementation proves that sophisticated automation begins with understanding these fundamental building blocks.
 
-*Key Learnings: Sensor i
+*Key Learnings: Sensor integration, analog circuit design, transistor applications, and practical prototyping.*
 
