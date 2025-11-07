@@ -30,7 +30,7 @@ Since this is a practical breadboard project without a formal schematic, here's 
 
 ### Video Demonstration
 Watch the project in action on LinkedIn:
-[**🎥 LinkedIn Demo Video Post**](https://www.linkedin.com/posts/your-actual-post-url-here)
+[**🎥 LinkedIn Demo Video Post**](https://www.linkedin.com/posts/activity-7392590534193750016-jaG2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEudjMEBt2NonAweof4oGrG4HdAPybLng0A)
 
 *Click above to see the circuit demonstration and explanation*
 
